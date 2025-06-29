@@ -54,6 +54,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VDDayarathne&bg_color=1a1a1a&color=ffa500&line=00e676&point=ffffff&area=true&hide_border=true" />
 </div>
 
+## 🏅 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDDayarathne&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&include_java=true" />
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
