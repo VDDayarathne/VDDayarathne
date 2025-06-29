@@ -51,7 +51,7 @@
 
 ## ⚡️ Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VDDayarathne&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VDDayarathne&bg_color=1a1a1a&color=ffa500&line=00e676&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <p align="center">
