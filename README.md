@@ -26,15 +26,15 @@
 - 🔭 Working on [Uvindu Food Ordering System](https://github.com/ashan24019/Uvindu-Food-Ordering-System.git) with Django & React  
 - 🌱 Exploring: Backend design, Docker, AI models in production
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
-- 📧  Reach me: ashanvimodh@gmail.com
+- 📧  Reach me: 2001vddayarathna@gmail.com
 <br><br>
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/ashanvimodh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="mailto:ashanvimodh@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
-  <a href="https://fb.com/harsha.fernando.520900"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/harsha_fernando__"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishwa-dayarathne-0a0a6b2b0"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="mailto:2001vddayarathna@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg?color=ffffff" height="30" width="40" title="Gmail" /></a>
+  <a href="https://www.facebook.com/share/1KT6tTZCwD/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/v_d_dayarathne_2001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Top Skills & Tools
