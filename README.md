@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/Ruk8jOQDYBXyHhQ6iU/giphy.gif?cid=790b76111b5vir6oyq3fkbavxz6hzj9dwvvtn94ngh96y6yu&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://www.pinterest.com/pin/7036943162225977/)" height="200" />
+  <img src="https://www.pinterest.com/pin/7036943162225977/" height="200" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Ashan+Vimodh;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%71bfde&size=30&center=true&vCenter=true&height=60&width=600&lines=Hey+there!+I'm+Vishwa+Dayarathne;Happy+to+see+you+here+👨‍💻✨" alt="Title"></img>
 </div>
 
 <h1></h1>
 <h3 align="center">Dedicated Software Engineering Student | Engineering ideas into impactful tech-driven by passion, powered by innovation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashan24019&label=Profile%20Visitors&color=ff6347&style=flat" alt="Visitor Count Badge" />
+  <img src="https://komarev.com/ghpvc/?username=VDDayarathne&label=Profile%20Visitors&color=ff6347&style=flat" alt="Visitor Count Badge" />
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashan24019&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VDDayarathne&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 Working on [Uvindu Food Ordering System](https://github.com/ashan24019/Uvindu-Food-Ordering-System.git) with Django & React  
+- 🔭 Working on [Uvindu Food Ordering System](https://github.com/VDDayarathne/Uvindu-Food-Ordering-System.git) with Django & React  
 - 🌱 Exploring: Backend design, Docker, AI models in production
 - ✨ Fun fact: I debug like a detective 🕵️‍♂️  
 - 📧  Reach me: 2001vddayarathna@gmail.com
@@ -44,14 +44,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashan24019&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan24019&layout=compact&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashan24019&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VDDayarathne&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDDayarathne&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VDDayarathne&theme=dark&hide_border=true" />
 </p>
 
 ## ⚡️ Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashan24019&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VDDayarathne&bg_color=000000&color=ff6347&line=63f7f7&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <p align="center">
